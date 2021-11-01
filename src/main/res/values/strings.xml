@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Coding Simulator</string>
+
+    <string name="rname">Coding\nSimulator</string>
+    <string name="tostart">Press button to start!</string>
+    <string name="start">Start</string>
+    <string name="musinfo">Music: Ark Patrol - Sober Touch</string>
+    <string name="choosediff">Сhoose difficulty</string>
+    <string name="easy">Easy</string>
+    <string name="medium">Medium</string>
+    <string name="hard">Hard</string>
+    <string name="score">Your best scores:\n$11 - $12\n$21 - $22\n$31 - $32</string>
+    <string name="del">Delete</string>
+    <string name="hint">Enter code</string>
+    <string name="gameover">Game Over</string>
+    <string name="yourscore">Your score:\n$1</string>
+    <string name="newbest">It`s new the best score!</string>
+    <string name="nowscore">Score: $1</string>
+</resources>
